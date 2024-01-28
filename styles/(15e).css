@@ -1,0 +1,43 @@
+.div{
+  width: 320px;
+  height: 320px;
+  background-color: rgb(96, 96, 96);
+  position: relative;
+  top: 20px;
+  left: 20px;
+  display: inline-block;
+}
+.discount-paragraph{
+  position: absolute;
+  background-color: black;
+  color: white;
+  border: none;
+  font-family: Arial;
+  font-size: 14px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  top:10px;
+  right: 0px;
+}
+.clothing-image{
+margin-top: 75px;
+margin-left: 75px;
+
+}
+.button{
+  background-color: white;
+  color: rgb(96, 96, 96);
+  border-style: solid;
+  border-color: rgb(96, 96, 96);
+  border-width: 1px;
+  border-radius:2px;
+  font-family: arial;
+  font-size:12px;
+  position:absolute;
+  bottom: 20px;
+  left:100px;
+  height:30px;
+
+}

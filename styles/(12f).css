@@ -1,0 +1,28 @@
+.outer-div{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(125, 64, 175);
+  height: 40px;
+  justify-content: space-between;
+  align-items: center;
+}
+.button{
+  background-color: rgb(125, 64, 175);
+  color: white;
+  border-width: 1px;
+  border-color: white;
+  border-style: solid;
+  border-radius: 2px;
+  height: 25px;
+  margin-right: 10px;
+}
+.search-box{
+  width:350px;
+  height: 25px;
+  border-radius: 20px;
+  border: none;
+}
+.left-div{
+  color: white;
+  margin-left: 10px;
+}

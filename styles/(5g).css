@@ -1,0 +1,26 @@
+.p {
+  font-family: Arial;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.name {
+  font-size: 16px;
+  font-weight: bold;
+}
+.handle {
+  font-size: 16px;
+  color: grey;
+  margin-left: 5px;
+  font-weight: normal;
+}
+.post {
+  margin-top: 4px;
+  font-size: 16px;
+  width: 450px;
+}
+.conclusion {
+  font-size: 16px;
+}
+.second {
+  color: rgb(37, 163, 236);
+}

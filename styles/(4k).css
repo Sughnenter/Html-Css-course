@@ -1,0 +1,61 @@
+.one {
+  background-color: green;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border-radius: 2px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  transition: opacity 0.25s,padding-left 0.15s, padding-right 0.15s ;
+  margin-left: 10px;
+}
+.one:hover {
+  padding-left: 22px;
+  padding-right: 22px;
+}
+.one:active {
+  opacity: 0.7;
+}
+.two {
+  background-color: green;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border-radius: 2px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  transition: opacity 0.25s,padding-left 0.15s, padding-right 0.15s;
+  margin-left: 10px;
+}
+.two:hover {
+  padding-left: 22px;
+  padding-right: 22px;
+  
+}
+.two:active {
+  opacity: 0.7;
+}
+.three {
+  background-color: green;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border-radius: 2px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  transition: opacity 0.25s,padding-left 0.15s, padding-right 0.15s;
+  margin-left: 10px;
+}
+.three:hover {
+  padding-left: 22px;
+  padding-right: 22px;
+}
+.three:active {
+  opacity: 0.7;
+}

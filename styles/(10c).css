@@ -1,0 +1,40 @@
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family:arial ;
+}
+.major-div{
+  display: block;
+}
+.image-div{
+  display: inline-block;
+  height: 100px;
+}
+.text-div{
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10px;
+  height: 100px;
+}
+.pic{
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+}
+.video-title{
+  font-family: arial;
+  font-size: 14px;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 12px;
+}
+.video-author{
+  color:  rgb(96, 96, 96);
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+.video-stats{
+  color:  rgb(96, 96, 96);
+  font-size: 12px;
+  margin-bottom: 8px;
+}

@@ -1,0 +1,49 @@
+.first {
+  display: inline-block;
+  font-size: 16px;
+  border: none;
+  border-style: solid;
+  border-color: gray;
+  font-family: Roboto;
+  width: 110px;
+  height: 35px;
+  border-radius: 3px;
+  padding-left: 10px;
+  border-width: 1px;
+}
+.last {
+  display: inline-block;
+  font-size: 16px;
+  border: none;
+  border-style: solid;
+  border-color: gray;
+  font-family: Roboto;
+  width: 110px;
+  height: 35px;
+  border-radius: 3px;
+  padding-left: 10px;
+  border-width: 1px;
+}
+.email {
+  display: block;
+  margin-top: 10px;
+  font-size: 16px;
+  border: none;
+  border-style: solid;
+  border-color: gray;
+  font-family: Roboto;
+  width: 237px;
+  height: 35px;
+  border-radius: 3px;
+  padding-left: 10px;
+  border-width: 1px;
+}
+.signup {
+  margin-top: 10px;
+  background-color: rgb(56, 87, 187);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 250px;
+  border-radius: 2px;
+}

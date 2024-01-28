@@ -1,0 +1,40 @@
+.get-started {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-left: 18px;
+  padding-bottom: 10px;
+  padding-right: 18px;
+  border-radius: 2px;
+  transition: background-color 0.2s, opacity o.2s;
+}
+.get-started:hover {
+  background-color: rgb(72, 30, 134);
+}
+.get-started:active {
+  opacity: 0.7;
+}
+.download {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border: rgb(108, 117, 125);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(108, 117, 125);
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+
+  margin-left: 10px;
+  border-radius: 2px;
+  transition: backgroun-color 0.2s, color 0.2s;
+}
+.download:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+.download:active {
+  opacity: 0.7;
+}

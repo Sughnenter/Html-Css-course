@@ -1,0 +1,14 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.Deals {
+  font-size: 20px;
+  font-weight: bold;
+}
+.sales {
+  font-size: 15px;
+  color: rgb(226, 92, 92);
+  font-style: italic;
+}

@@ -1,0 +1,61 @@
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.major-div{
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.15);
+  height: 80px;
+  width: 350px;
+}
+.text-div {
+  display: inline-block;
+  margin-left: 20px;
+  height: 60px;
+  
+}
+.image-div{
+  display: inline-block;
+}
+.button-div{
+  display: inline-block;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+.pic {
+  height: 60px;
+  border-radius: 35px;
+  display: inline-block;
+  margin-left: 10px;
+}
+.thing, .status {
+  display: block;
+  color: rgb(170, 166, 166);
+  font-size: 16px;
+}
+.thing{
+  margin-top: 5px;}
+.status{
+  margin-top: 5px;
+}
+.name{
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+}
+.button {
+  background-color: rgba(25, 125, 192, 0.89);
+  color: white;
+  border: none;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 2px;
+  font-weight: bold;
+  font-size: 12px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  transition: box-sadow 0.2s;
+  vertical-align: middle;
+  display: inline-block;
+}
